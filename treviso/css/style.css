@@ -96,6 +96,19 @@ p {
 	color: #848484;
 	font-size: 12px;
 }
+
+ol {
+	font-family: "Open Sans", Verdana, Arial, sans-serif;
+	line-height: 1.6em;
+	color: #848484;
+	font-size: 12px;
+	list-style-type:disc;
+}
+
+li {
+	margin-left: 20px;
+}
+
 h1 {
 	font-family: "Open Sans", Verdana, Arial, sans-serif;
 	line-height: 1.6em;
